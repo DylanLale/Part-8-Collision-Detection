@@ -142,7 +142,6 @@ namespace Part_8__Collision_Detection
 
             base.Update(gameTime);
         }
-    }
 
         protected override void Draw(GameTime gameTime)
         {
